@@ -9,9 +9,9 @@
 - 可接受來源  
       MySQL、PostgreSQL、SQLServer、Amazon Redshift、BigQuery、Snowflake、Amazon Athena、ClickHouse、Detabricks、Druid、DruidJDBC、MongoDB、Presto、SparkSQL、SQLite、Starburst
 - 串接&新增欄位功能  
-    - 內建基礎資料處理功能，可用點選方式進行資料表的欄位串接、自訂欄位及篩選，並儲存於提問中。
+    - 內建基礎資料處理功能，可用點選方式，進行新增自訂欄位、資料表間的欄位串接，及資料預篩選等，並儲存於提問中。
     - 自訂欄位部分，提供數十個基礎函式協助資料處理。
-    - 資料「模型」：資料預處理功能(類似view)。
+    - 提供資料「模型」功能：從資料庫資料進行預處理(類似view)，供後續提問(圖表)取用。
 - 語言  
   使用繁體中文未遇困難。
 ###  圖表
