@@ -8,21 +8,24 @@
 - 資料
     - 可接受來源  
       MySQL、PostgreSQL、SQLServer、Amazon Redshift、BigQuery、Snowflake、Amazon Athena、ClickHouse、Detabricks、Druid、DruidJDBC、MongoDB、Presto、SparkSQL、SQLite、Starburst
-    - 串接&新增欄位功能 
+    - 串接&新增欄位功能  
       內建基礎資料處理功能，可用點選方式進行資料表的欄位串接、自訂欄位及篩選，並儲存於提問中。
       自訂欄位部分，提供數十個基礎函式協助資料處理。
 - 圖表
     - 圖表種類
+      表格、柱狀圖(直/橫)、折線圖、圓餅圖、面積圖、組合圖、地圖、散點圖、瀑布圖、數字卡、透視表、趨勢數字卡、量測計卡、進度卡(達標標示)、漏斗圖、桑基圖
     - 圖內運算
-    - 內容可調整姓
+      總行數、總和、平均、中位數、不重複值總數、累積和、累積行數、標準差、最小值、最大值
+    - 內容可調整性
     - 語言
     - 地圖
     - 操作
 - 儀錶板
     - 排版
     - 互動
-- 專案
-    - 元素整理
+- 整體操作
+    - 專案元素整理
+    - 中文介面
 
 ## Superset
 - 建構邏輯
