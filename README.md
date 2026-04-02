@@ -59,7 +59,7 @@
   建構圖表時，先選擇資料表，再選擇圖表類型，再將資料欄位排上圖表，後續再做圖表類型或欄位之調整。操作起來非屬探索型。
 ### 資料
 - 由admin設定連接之database，使用者則可從database中取用datasets。
-- 可接受來源database
+- 可接受來源(database)
     - 須預先於docker中安裝該類資料庫之驅動程式。可安裝之資料庫包括：https://superset.apache.org/user-docs/databases/ (撰寫時約80種，包括googlesheet)。
 - 資料表之串接&新增欄位功能
     - 無法於Superset中進行資料表處理，包括串接及新增欄位。
